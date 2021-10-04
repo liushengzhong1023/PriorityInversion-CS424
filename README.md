@@ -1,2 +1,1 @@
-# rvms
-Relative-Velocity Monotonic Scheduling Using Lidar Based Depth Clustering
+# Priority Inversion Template for CS424 Project
